@@ -1,0 +1,5 @@
+{
+  "env": {
+    "ACTIVITYIM_FAUNADB_SECRET_KEY": "@faunadb_secret_key"
+  }
+}
